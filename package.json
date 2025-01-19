@@ -1,0 +1,12 @@
+{
+    "name": "com.kdh.weaponsystem",
+    "version": "1.0.0",
+    "displayName": "Custom WeaponSystem",
+    "description": "This is an Custom made WeaponSystem",
+    "unity": "2023.1",
+    "dependencies": {
+   },
+    "author": {
+      "name": "KDH"
+    }
+  }
